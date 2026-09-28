@@ -1,0 +1,18 @@
+1비트 (BOOLEAN)
+X,Y,M
+
+1워드(WORD), 16BIT
+1워드=16비트 PLC
+1워드=32비트 PC
+
+
+MOV
+K1OO : oo(비트)를 시작점으로 
+....
+K4OO
+
+
+K1Y30 4bit  Y30~Y33
+K2Y30 8bit  Y30~Y37
+K3Y0  12bit  Y30~Y3C
+K4Y0  16bit  Y30~Y3F
